@@ -1,0 +1,5 @@
+grafica/
+*.pyc
+prueba.py
+user_interface/*r.py
+services/triangle_service.py
